@@ -1,0 +1,31 @@
+section table
+{
+    color:black;
+    border-collapse: collapse;
+    margin: 40px;
+    padding: 20px;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    font-size: 20px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+section table p
+{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    font-size: 16px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+section table li
+{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
