@@ -6,12 +6,10 @@ section table
     padding: 20px;
 }
 
-h2 {
+section table h2 {
     font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
-    display: block;
+    color:#F47920;
     font-size: 20px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
     font-weight: bold;
 }
 
@@ -20,12 +18,81 @@ section table p
     font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
     display: block;
     font-size: 16px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    font-weight: bold;
 }
 
 section table li
 {
     font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
+    font-weight: bold;
+    list-style-type: "♦ ";
+}
+
+section table tr td div
+{
+
+    text-align: right;
+    
+}
+
+section table td:nth-child(2)
+{
+    width: 600px;
+}
+
+
+
+
+.tabla2
+{
+    border-collapse: separate;
+    margin: 40px;
+    padding: 20px;
+    
+}
+
+
+.tabla2 p
+{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.tabla2 tr td div
+{
+
+    text-align: right;
+    
+}
+
+.tabla2 tr td:nth-child(2)
+{
+    padding-right: 100px;
+    width: 800px;
+}
+
+.tabla2 tr td hr
+{
+    border: none;
+    height: 1px;
+    width: 100%;
+    background-color:black;
+}
+
+.tabla2 h2 {
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    color:#005883;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 0%;
+}
+
+.tabla2 tr td
+{
+    width: 500px;
+    text-align: left;
 }

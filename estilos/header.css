@@ -9,8 +9,8 @@ header
 header .titulo {
     padding-left: 30px;
     color:#F0B429;
-    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
-    font-size:20px;
+    font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
+    font-size:25px;
     font-weight: bold;
 	line-height:140px;
 	float:left;
@@ -55,6 +55,7 @@ header nav ul li
 	position:relative;
 	float:left;
 	border-radius:50px;
+	text-align: center;
 }
 
 header nav ul ul
