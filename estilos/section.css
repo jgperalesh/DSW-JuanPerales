@@ -96,3 +96,163 @@ section table td:nth-child(2)
     width: 500px;
     text-align: left;
 }
+
+.tituloconcepto
+{
+    margin-top: 6px;
+    background-color:#F47920;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.textotitulo
+{
+    font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
+    line-height: 80px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.parrafo
+{
+    margin-top: 6px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.textoparrafo
+{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+
+
+.tb_section
+{
+    margin-left: 10%;
+    width: 80%;
+    border-color: none;
+    margin-bottom: 50px;
+}
+
+.tb_section tr
+{
+    border-color: none;
+    background-color:#F47920;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+.ejemplo1
+{
+    float: left;
+    margin-top: 10px;
+    background-color:#F47920;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    border-radius: 20px;
+    width: 40%;
+    line-height: 40px;
+}
+
+.ejemplo2
+{
+    margin-right: 50px;
+    float: right;
+    margin-top: 10px;
+    background-color:#F47920;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    width: 40%;
+    line-height: 40px;
+}
+
+.textoejemplo
+{
+    font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.img_ejemplo1
+{
+    float: left;
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.img_ejemplo2
+{
+    float: right;
+    margin-right: 70px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.textotitulo2
+{
+    font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
+    line-height: 80px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.tituloconcepto2
+{
+    margin-top: 80px;   
+    background-color:#F47920;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.img_ejemplosolo
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+section hr
+{
+    margin-bottom: 60px;
+    margin-top: 60px;
+    border: none;
+    height: 1px;
+    width: 100%;
+    background-color:gray;
+    opacity: 50%;
+}
+
+.referencias
+{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    list-style-type: "♦ ";
+}
