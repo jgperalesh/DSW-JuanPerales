@@ -98,6 +98,7 @@ section table td:nth-child(2)
 
 .tituloconcepto
 {
+    position: relative;
     margin-top: 6px;
     background-color:#F47920;
     display: flex;
@@ -106,6 +107,7 @@ section table td:nth-child(2)
     margin-right: auto;
     border-radius: 20px;
     width: 100%;
+    z-index: -10;
 }
 
 .textotitulo
@@ -304,3 +306,10 @@ section hr
 }
 
 
+#sopadeletras
+{
+    position: relative;
+    text-align: center;
+    margin: 50px;
+    z-index: -10;
+}

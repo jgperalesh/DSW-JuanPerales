@@ -1,20 +1,140 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PRONTO</title>
+    <meta name="Author" content="Juan G. Perales">
+    <meta name="Description" content="Sitio web diseñado bajo la tematica del contenido HTML (SECTION, ASIDE, FOOTER, ARTICLE)">
+    <meta name="Keywords" content="HTML, CSS, ASIDE, SECTION, ARTICLE, FOOTER">
 
+    <title>Sopa de Letras - OVI Diseño de Sitios WEB</title>
+
+    <link rel="shortcut icon" href="imagenes/favicon.png"> 
+
+    <link rel="stylesheet" href="estilos/header.css">
     <link rel="stylesheet" href="estilos/section.css">
+    <link rel="stylesheet" href="estilos/footer.css">
+    <link rel="stylesheet" href="estilos/aside.css">
+    <link rel="stylesheet" href="estilos/principal.css">
+
+    <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f87d68cea998500131505cb&product=sticky-share-buttons" async="async"></script>
+
 </head>
+
+<header>
+
+    <div>
+        <div class="titulo">Contenido en HTML (SECTION, ASIDE, FOOTER, ARTICLE)</div>
+
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Inicio</a></li>
+
+                <li><a href="#" style="cursor: default;">Conceptos</a>
+            
+                    <ul>
+                        <li><a href="section.html">Section</a></li>
+                        <li><a href="aside.html">Aside</a></li>
+                        <li><a href="footer.html">Footer</a></li>
+                        <li><a href="article.html">Article</a></li>
+                    </ul>
+    
+                </li>
+    
+                <li><a href="#" style="cursor: default;">Recursos</a>
+            
+                    <ul>
+                        <li><a href="videos.html">Videos</a></li>
+                        <li><a href="archivos.html">PowerPoint</a></li>
+                    </ul>
+    
+                </li>
+
+                <li><a href="#" style="cursor: default;">Autoevaluación</a>
+            
+                    <ul class="centrar">
+                        <li><a href="autoevaluacion1.html">Crucigrama</a></li>
+                        <li><a href="autoevaluacion2.html">Sopa de Letras</a></li>
+                        <li><a href="autoevaluacion3.html">Evaluación Sitio</a></li>
+                    </ul>
+        
+                </li>
+
+                <li><a href="autor.html">Autor</a></li>
+            </ul>
+        </nav>
+        
+
+    </div>
+
+
+</header>
+
+
 <body>
     
-    <div id="container">
-        <img id="image" src="imagenes/pronto.jpg" />
-        <p id="text">
-          Esperando Fase 3. <br> Juan G. Perales
-        </p>
-   </div>
+
+
+
+    <div id="ctn-icon-search">
+        <i class="fas fa-search" id="icon-search"></i>
+    </div>
+    
+    </div>
+    
+    <div id="icon-menu">
+    <i class="fas fa-bars"></i>
+    </div>
+    
+    
+    
+    
+    <div id="ctn-bars-search">
+        <input type="text" id="inputSearch" placeholder="¿Qué deseas buscar?">
+    </div>
+    
+    
+    
+    <ul id="box-search">
+        <li><a href="aside.html"><i class="fas fa-search"></i>Aside</a></li>
+        <li><a href="article.html"><i class="fas fa-search"></i>Article</a></li>
+        <li><a href="footer.html"><i class="fas fa-search"></i>Footer</a></li>
+        <li><a href="section.html"><i class="fas fa-search"></i>Section</a></li>
+    </ul>
+    
+    
+    
+    <div id="cover-ctn-search"></div>
+
+    <section>
+        <div class="tituloconcepto">
+      
+          <div class="textotitulo">SOPA DE LETRAS</div>
+      
+        </div>
+      
+      </section>
+    
+    <div id="sopadeletras">
+        
+        <iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/7713331-contenido_en_html.html"></iframe>
+   
+    </div>
 
 </body>
+
+
+<script src="js/script.js"></script>
+
+
+<footer>
+
+  <p>
+      © 2020 Juan G. Perales. Todos los derechos reservados.
+  </p>
+</footer>
+
 </html>

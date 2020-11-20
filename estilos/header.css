@@ -4,6 +4,13 @@ header
 	height: 150px;
 	background-color:#005883;
 
+	
+    top: 0;
+    left: 0;
+
+    box-shadow: 0 4px 25px -22px black;
+    z-index: 50;
+
 }
  
 header .titulo {
@@ -14,6 +21,7 @@ header .titulo {
     font-weight: bold;
 	line-height:140px;
 	float:left;
+	
 }
  
 header nav {
@@ -36,11 +44,13 @@ header nav ul a {
 	-webkit-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	transition:all 500ms ease;
+
 }
 
 header nav a:hover {
 	background: #F47920;
 	border-radius:50px;
+	
 }
 
 header nav ul
@@ -53,7 +63,7 @@ header nav ul li
 {
 	background-color: #005883;
 	position:relative;
-	float:left;
+	float: left;;
 	border-radius:50px;
 	text-align: center;
 	z-index: 1;
@@ -70,10 +80,17 @@ header nav ul ul
 }
 
 header nav ul ul li {
-    float:none;
-    width:150px
+	float:none;
+	width:150px;
+
 }
 
 header nav ul li:hover > ul {
     display:block;
+}
+
+
+.centrar
+{
+	margin-left: 20px;
 }
