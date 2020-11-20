@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">   
+
+
+    <!--Página de Inicio-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/inicio.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+   
+       <!--Página Section-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/section.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+       <!--Página Aside-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/aside.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+   <!--Página Footer-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/footer.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+       <!--Página Article-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/article.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+       <!--Página de Videos-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/videos.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+   
+       <!--Página de PowerPoint-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/archivos.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+       <!--Página Crucigrama-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/autoevaluacion2.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+   <!--Página Sopa de Letras-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/autoevaluacion2.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+       <!--Página Evaluacion del Sitio-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/autoevaluacion3.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+   
+       <!--Página de Autor-->
+
+    <url> 
+
+        <loc>https://jgperalesh.github.io/DSW-JuanPerales/autor.html</loc>
+        <lastmod>2020-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+
+   </url>
+
+   </urlset> 
